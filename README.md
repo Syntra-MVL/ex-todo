@@ -9,7 +9,7 @@ Het html bestand moeten jullie niet meer wijzigen.
 ## Oefeningen:
 ### Oefening 07: TODO or not TODO
 #### Doel:
-Kijk goed naar de eerste screencast1 (op het leerplatform);
+Kijk goed naar de eerste screencast1 (in de `images` folder);
 
 Als alles werkt zoals in screencast1 is kijk dan naar screencast2 voor het 
 volgende deel van de oefening.
